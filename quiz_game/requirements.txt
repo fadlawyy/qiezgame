@@ -1,0 +1,10 @@
+# Quiz Game with Leaderboard - Dependencies
+# SQLite Database (built into Python - no external dependencies needed)
+
+# Standard library modules used:
+# - sqlite3 (database operations)
+# - datetime (timestamps and timing)
+# - random (question shuffling)
+# - os (screen clearing)
+
+# Python version requirement: 3.7+
